@@ -20,7 +20,7 @@ I have used AWS Sagemaker and its services to build the model and create a workf
 
 1. Clone the repository:
 
-   git clone [https://github.com/your-username/ml-workflow.git](https://github.com/Ab-Champ/ML-Workflow-for-Scones-Unlimited.git)
+   git clone (https://github.com/Ab-Champ/ML-Workflow-for-Scones-Unlimited.git)
    cd ml_workflow
 
 2. Install dependencies:
