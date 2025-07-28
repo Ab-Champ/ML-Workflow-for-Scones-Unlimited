@@ -1,5 +1,5 @@
 # ML WORKFLOW FOR SCONES UNLIMITED
-<img src="titleimg.jpg" alt="titleimg.jpg" width="500"/>
+![thubmnail](Screenshots/thumbnail_scones.jpg)
 
 ## INTRODUCTION
 In this project, we have built an image classification model that can automatically detect which kind of vehicle delivery drivers have, in order to route them to the correct loading bay and orders.
