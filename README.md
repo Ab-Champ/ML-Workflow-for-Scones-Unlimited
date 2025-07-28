@@ -43,10 +43,27 @@ I have used AWS Sagemaker and its services to build the model and create a workf
 - matplotlib, seaborn (visualization)
 - scikit-learn (machine learning algorithms and evaluation)
 
-## 📈 Inference
 
-![inference1](url)
-![inference2](url)
+## 📊 Visualizations & Logs
+
+### ✅ Successful Execution
+
+![Successful Step](./Screenshots/StepMachine_successful.png)
+
+![Logs](./Screenshots/Successful_logs.png)
+
+### ❌ Unsuccessful Attempt
+
+![Unsuccessful Step](./Screenshots/StepMachine_Unsuccessful.png)
+
+### 📈 Execution Graph
+
+![Execution Graph](./Screenshots/StepMachine_Graph.png)
+
+### 🖼️ Screenshot
+
+![Screenshot](./images/Screenshot 2024-08-24 001257.png)
+
 
 ## 🧩 To-Do / Enhancements
 
